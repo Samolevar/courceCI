@@ -58,6 +58,7 @@ fabric.properties
 ### JetBrains Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
+course_CI.iml
 *.iml
 # modules.xml
 # .idea/misc.xml
