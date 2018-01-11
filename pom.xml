@@ -1,0 +1,9 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ru.kontur.course</groupId>
+  <artifactId>coursescript-ci</artifactId>
+  <version>0.0.1</version>
+  <modules>
+    <module>generator</module>
+  </modules>
+</project>
