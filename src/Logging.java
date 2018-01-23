@@ -11,6 +11,7 @@ public class Logging {
             oddCounter++;
           }
         }
+        System.out.println(n + " app build " + "Failed");
 /*
         if (oddCounter > books.numbersArray.length / 2) {
           System.out.println(n + " app build " + "Failed");
@@ -18,10 +19,6 @@ public class Logging {
           System.out.println(n + " app build " + "Success");
         }
 */
-
-      for (int res = 0; res < 5; res++) {
-        System.out.println(res + " app build " + "Failed");
-      }
 
       }
   }
