@@ -11,12 +11,17 @@ public class Logging {
             oddCounter++;
           }
         }
-
+/*
         if (oddCounter > books.numbersArray.length / 2) {
           System.out.println(n + " app build " + "Failed");
-        }// else {
-       //   System.out.println(n + " app build " + "Success");
-      //  }
+        } else {
+          System.out.println(n + " app build " + "Success");
+        }
+*/
+
+      for (int res = 0; res < 5; res++) {
+        System.out.println(res + " app build " + "Failed");
+      }
 
       }
   }
