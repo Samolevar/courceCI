@@ -1,7 +1,7 @@
 public class Logging {
 
   public static void main(String args[]) {
-      for (int n = 1; n <= 5; n++) {
+      for (int n = 1; n <= 6; n++) {
         Generator books = new Generator();
 
         int oddCounter = 0;
